@@ -1,0 +1,26 @@
+.img-redes {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.img-personajes {
+    height: 20px;
+    width: 20px
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
